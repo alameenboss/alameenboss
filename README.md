@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alameen</h1>
 <h3 align="center">Full stack dot net developer from India</h3>
 
-<!-- <p align="left">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=alameenboss" alt="alameenboss" />
-</p> -->
+</p>
 
-- 🔭 I’m currently working on **Anguar**
+- 🔭 I’m currently working on **Angular**
 
 - 🌱 I’m currently learning **Azure**
 
@@ -36,14 +36,14 @@
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
             alt="alameenboss" height="20" width="20" />
     </a>
-    <!-- <a href="https://codesandbox.com/alameenboss" target="blank">
+    <a href="https://codesandbox.com/alameenboss" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"
             alt="alameenboss" height="20" width="20" />
-    </a> -->
-    <!-- <a href="https://kaggle.com/alameenboss" target="blank">
+    </a>
+    <a href="https://kaggle.com/alameenboss" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="alameenboss"
             height="20" width="20" />
-    </a> -->
+    </a>
     <a href="https://www.facebook.com/profile.php?id=100026691020738" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alameens"
             height="20" width="20" />
@@ -52,21 +52,21 @@
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alameenboss"
             height="20" width="20" />
     </a>
-    <!-- <a href="https://dribbble.com/alameenboss" target="blank">
+    <a href="https://dribbble.com/alameenboss" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="alameenboss"
             height="20" width="20" />
-    </a> -->
-    <!-- <a href="https://www.behance.net/alameenboss" target="blank">
+    </a> 
+    <a href="https://www.behance.net/alameenboss" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="alameenboss"
             height="20" width="20" />
-    </a> -->
-    <!-- <a href="https://medium.com/@alameenboss" target="blank">
+    </a> 
+    <a href="https://medium.com/@alameenboss" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@alameenboss"
             height="20" width="20" />
-    </a> -->
-    <!-- <a href="https://www.youtube.com/c/alameenboss" target="blank">
+    </a>
+    <a href="https://www.youtube.com/c/alameenboss" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="alameenboss"
-            height="20" width="20" /> -->
+            height="20" width="20" />
     </a>
 </p>
 
